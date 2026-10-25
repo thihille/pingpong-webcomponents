@@ -9,4 +9,6 @@ Pong → Components deliver consistent UI, behavior, telemetry and accessibility
 
 Built for scalability, observability and cross-application reuse.
 
+Built by C4 
+
 _By Hille_
